@@ -15,8 +15,8 @@ ref   	text             	parse      	lemma       	pre      	gloss
 2.4   	ᾗ                	RR  DSF    	ὅς          	         	to whom
 2.5   	ὄνομα            	N3M ASN    	ὄνομα       	         	name
 2.6   	Σουσάννα,        	N   NSF    	Σουσαννα    	         	Susanna,
-2.7   	θυγάτηρ          	N3T NSF    	θυγάτηρ     	         	daughter
-2.8   	Χελκείου,        	N   GSM    	Χελκιος     	         	of Chelkios,
+2.7   	θυγάτηρ          	N3  NSF    	θυγάτηρ     	         	daughter
+2.8   	Χελκείου,        	N   GSM    	Χελκιας     	         	of Hilkiah,
 2.9   	καλὴ             	A1  NSF    	καλός       	         	beautiful
 2.10  	σφόδρα           	D          	σφόδρα      	         	very much
 2.11  	καὶ              	C          	καί         	         	and
@@ -497,7 +497,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 28.18 	πλήρεις          	A3H NPM    	πλήρης      	         	full
 28.19 	τῆς              	RA  GSF    	ὁ           	         	of the
 28.20 	ἀνόμου           	A1B GSF    	ἄνομος      	         	lawless
-28.21 	ἐννοίας          	N1A GSF    	ἔννοιας     	         	thought
+28.21 	ἐννοίας          	N1A GSF    	ἔννοια      	         	thought
 28.22 	κατὰ             	P          	κατά        	         	against
 28.23 	Σουσάννης        	N   GSF    	Σουσαννα    	         	Susanna
 28.24 	τοῦ              	RA  GSN    	ὁ           	         	of the
@@ -512,7 +512,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 29.2  	ἐπὶ              	P          	ἐπί         	         	for
 29.3  	Σουσάνναν        	N   ASF    	Σουσαννα    	         	Susanna
 29.4  	θυγατέρα         	N3  ASF    	θυγάτηρ     	         	daughter
-29.5  	Χελκίου          	N   GSM    	Χελκιος     	         	of Hilkiah
+29.5  	Χελκίου          	N   GSM    	Χελκιας     	         	of Hilkiah
 29.6  	ἥ                	RR  NSF    	ὅς          	         	who
 29.7  	ἐστιν            	V9  PAI3S  	εἰμί        	         	is
 29.8  	γυνὴ             	N3K NSF    	γυνή        	         	wife
@@ -648,7 +648,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 38.8  	παραδείσου       	N2  GSM    	παράδεισος  	         	garden,
 38.9  	ἰδόντες          	VB  AAPNPM 	ὁράω        	         	seeing
 38.10 	τὴν              	RA  ASF    	ὁ           	         	the
-38.11 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	wickedness
+38.11 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	lawlessness
 38.12 	ἐδράμομεν        	VBI AAI1P  	τρέχω       	         	ran
 38.13 	ἐπ’              	P          	ἐπί         	         	toward
 38.14 	αὐτούς·          	RD  APM    	αὐτός       	         	them;
@@ -680,7 +680,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 40.5  	τίς              	RI  NSM    	τίς         	         	who
 40.6  	ἦν               	V9  IAI3S  	εἰμί        	         	was
 40.7  	ὁ                	RA  NSM    	ὁ           	         	the
-40.8  	νεανίσκος·       	N2  NSM    	νεανίσκος   	         	man;
+40.8  	νεανίσκος·       	N2  NSM    	νεανίσκος   	         	young man;
 41.1  	καὶ              	C          	καί         	         	and
 41.2  	οὐκ              	D          	οὐ          	         	not
 41.3  	ἠθέλησεν         	VAI AAI3S  	θέλω        	         	wished
@@ -785,7 +785,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 47.9  	εἶπαν            	VAI AAI3P  	εἶπον       	         	said:
 47.10 	Τίς              	RI  NSM    	τίς         	         	What [is]
 47.11 	ὁ                	RA  NSM    	ὁ           	         	the
-47.12 	λόγος            	N2  NSM    	λόγος       	         	word
+47.12 	λόγος            	N2  NSM    	λόγος       	         	statement
 47.13 	οὗτος            	RD  NSM    	οὗτος       	         	this
 47.14 	ὃν               	RR  ASM    	ὅς          	         	which
 47.15 	σὺ               	RP  NS     	σύ          	         	you
@@ -814,7 +814,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 49.1  	ἀναστρέψατε      	VA  AAD2P  	στρέφω      	ἀνα      	return
 49.2  	εἰς              	P          	εἰς         	         	to
 49.3  	τὸ               	RA  ASN    	ὁ           	         	the
-49.4  	κριτήριον·       	N2N ASN    	κριτήριον   	         	course;
+49.4  	κριτήριον·       	N2N ASN    	κριτήριον   	         	judgement seat;
 49.5  	ψευδῆ            	A3H APN    	ψευδής      	         	false
 49.6  	γὰρ              	X          	γάρ         	         	for
 49.7  	οὗτοι            	RD  NPM    	οὗτος       	         	these
@@ -967,7 +967,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 56.18 	ἐξηπάτησέν       	VAI AAI3S  	ἀπατάω      	ἐκ       	cheated
 56.19 	σε,              	RP  AS     	σύ          	         	you,
 56.20 	καὶ              	C          	καί         	         	and
-56.21 	ἐπιθυμία         	N1A NSF    	ἐπιθυμία    	         	desire
+56.21 	ἐπιθυμία         	N1A NSF    	ἐπιθυμία    	         	lust
 56.22 	διέστρεψεν       	VAI AAI3S  	στρέφω      	δια      	twisted
 56.23 	τὴν              	RA  ASF    	ὁ           	         	the
 56.24 	καρδίαν          	N1A ASF    	καρδία      	         	heart
@@ -1054,7 +1054,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 61.3  	ἐπὶ              	P          	ἐπί         	         	against
 61.4  	τοὺς             	RA  APM    	ὁ           	         	the
 61.5  	δύο              	M   ADM    	δύο         	         	two
-61.6  	πρεσβύτας,       	N1M APM    	πρεσβύτης   	         	elders,
+61.6  	πρεσβύτας,       	N1M APM    	πρεσβύτης   	         	old men,
 61.7  	ὅτι              	C          	ὅτι         	         	because
 61.8  	συνέστησεν       	VAI AAI3S  	ἵστημι      	συν      	set together
 61.9  	αὐτοὺς           	RD  APM    	αὐτός       	         	them
