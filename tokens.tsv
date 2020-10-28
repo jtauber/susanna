@@ -81,7 +81,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 5.17  	δεσπότης         	N1M NSM    	δεσπότης    	         	Lord,
 5.18  	ὅτι              	C          	ὅτι         	         	that
 5.19  	ἐξῆλθεν          	VBI AAI3S  	ἔρχομαι     	ἐκ       	came
-5.20  	ἀνομία           	N1A NSF    	ἀνομία      	         	lawlessness
+5.20  	ἀνομία           	N1A NSF    	ἀνομία      	         	wickedness
 5.21  	ἐκ               	P          	ἐκ          	         	from
 5.22  	Βαβυλῶνος        	N3W GSF    	Βαβυλών     	         	Babylon
 5.23  	ἐκ               	P          	ἐκ          	         	from
@@ -440,7 +440,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 26.2  	δὲ               	X          	δέ          	         	then
 26.3  	ἤκουσαν          	VAI AAI3P  	ἀκούω       	         	heard
 26.4  	τὴν              	RA  ASF    	ὁ           	         	the
-26.5  	κραυγὴν          	N1  ASF    	κραυγή      	         	cry
+26.5  	κραυγὴν          	N1  ASF    	κραυγή      	         	shouting
 26.6  	ἐν               	P          	ἐν          	         	in
 26.7  	τῷ               	RA  DSM    	ὁ           	         	the
 26.8  	παραδείσῳ        	N2  DSM    	παράδεισος  	         	garden
@@ -467,7 +467,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 27.8  	αὐτῶν,           	RD  GPM    	αὐτός       	         	of them,
 27.9  	κατῃσχύνθησαν    	VCI API3P  	αἰσχύνω     	κατα     	were ashamed
 27.10 	οἱ               	RA  NPM    	ὁ           	         	the
-27.11 	δοῦλοι           	N2  NPM    	δοῦλος      	         	servants
+27.11 	δοῦλοι           	N2  NPM    	δοῦλος      	         	slaves
 27.12 	σφόδρα,          	D          	σφόδρα      	         	very much,
 27.13 	ὅτι              	C          	ὅτι         	         	because
 27.14 	πώποτε           	D          	πώποτε      	         	ever yet    } never
@@ -615,7 +615,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 36.12 	αὕτη             	RD  NSF    	οὗτος       	         	this woman
 36.13 	μετὰ             	P          	μετά        	         	with
 36.14 	δύο              	M   GDM    	δύο         	         	two
-36.15 	παιδισκῶν,       	N1  GPF    	παιδίσκη    	         	maids,
+36.15 	παιδισκῶν,       	N1  GPF    	παιδίσκη    	         	handmaids,
 36.16 	καὶ              	C          	καί         	         	and
 36.17 	ἀπέκλεισεν       	VAI AAI3S  	κλείω       	ἀπο      	shut
 36.18 	τὰς              	RA  APF    	ὁ           	         	the
@@ -625,7 +625,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 36.22 	καὶ              	C          	καί         	         	and
 36.23 	ἀπέλυσεν         	VAI AAI3S  	λύω         	ἀπο      	sent away
 36.24 	τὰς              	RA  APF    	ὁ           	         	the
-36.25 	παιδίσκας.       	N1  APF    	παιδίσκη    	         	maids.
+36.25 	παιδίσκας.       	N1  APF    	παιδίσκη    	         	handmaids.
 37.1  	καὶ              	C          	καί         	         	then
 37.2  	ἦλθεν            	VBI AAI3S  	ἔρχομαι     	         	came
 37.3  	πρὸς             	P          	πρός        	         	to
@@ -648,7 +648,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 38.8  	παραδείσου       	N2  GSM    	παράδεισος  	         	garden,
 38.9  	ἰδόντες          	VB  AAPNPM 	ὁράω        	         	seeing
 38.10 	τὴν              	RA  ASF    	ὁ           	         	the
-38.11 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	lawlessness
+38.11 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	wickedness
 38.12 	ἐδράμομεν        	VBI AAI1P  	τρέχω       	         	ran
 38.13 	ἐπ’              	P          	ἐπί         	         	toward
 38.14 	αὐτούς·          	RD  APM    	αὐτός       	         	them;
@@ -801,7 +801,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 48.9  	μωροί,           	A1A NPM    	μωρός       	         	stupid [are]
 48.10 	οἱ               	RA  NPM    	ὁ           	         	the
 48.11 	υἱοὶ             	N2  NPM    	υἱός        	         	sons
-48.12 	Ἰσραήλ;          	N   GSM    	Ἰσραήλ      	         	of Israel?
+48.12 	Ισραηλ;          	N   GSM    	Ισραηλ      	         	of Israel?
 48.13 	οὐκ              	D          	οὐ          	         	not
 48.14 	ἀνακρίναντες     	VA  AAPNPM 	κρίνω       	ἀνα      	investigating
 48.15 	οὐδὲ             	C          	οὐδέ        	         	nor
@@ -810,11 +810,11 @@ ref   	text             	parse      	lemma       	pre      	gloss
 48.18 	ἐπιγνόντες       	VZ  AAPNPM 	γιγνώσκω    	ἐπι      	knowing
 48.19 	κατεκρίνατε      	VAI AAI2P  	κρίνω       	κατα     	judged
 48.20 	θυγατέρα         	N3  ASF    	θυγάτηρ     	         	a daughter
-48.21 	Ἰσραήλ;          	N   GSM    	Ἰσραήλ      	         	of Israel?
+48.21 	Ισραηλ;          	N   GSM    	Ισραηλ      	         	of Israel?
 49.1  	ἀναστρέψατε      	VA  AAD2P  	στρέφω      	ἀνα      	return
 49.2  	εἰς              	P          	εἰς         	         	to
 49.3  	τὸ               	RA  ASN    	ὁ           	         	the
-49.4  	κριτήριον·       	N2N ASN    	κριτήριον   	         	judgement seat;
+49.4  	κριτήριον·       	N2N ASN    	κριτήριον   	         	court;
 49.5  	ψευδῆ            	A3H APN    	ψευδής      	         	false
 49.6  	γὰρ              	X          	γάρ         	         	for
 49.7  	οὗτοι            	RD  NPM    	οὗτος       	         	these
@@ -975,7 +975,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 57.1  	οὕτως            	D          	οὕτως       	         	thus
 57.2  	ἐποιεῖτε         	V2I IAI2P  	ποιέω       	         	you did
 57.3  	θυγατράσιν       	N3  DPF    	θυγάτηρ     	         	with daughters
-57.4  	Ἰσραήλ,          	N   GSM    	Ἰσραήλ      	         	of Israel,
+57.4  	Ισραηλ,          	N   GSM    	Ισραηλ      	         	of Israel,
 57.5  	καὶ              	C          	καί         	         	and
 57.6  	ἐκεῖναι          	RD  NPF    	ἐκεῖνος     	         	those
 57.7  	φοβούμεναι       	V2  PMPNPF 	φοβέω       	         	fearing
@@ -987,7 +987,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 57.13 	Ἰούδα            	N   GSM    	Ιουδα       	         	of Judah
 57.14 	ὑπέμεινεν        	VAI AAI3S  	μένω        	ὑπο      	endured
 57.15 	τὴν              	RA  ASF    	ὁ           	         	the
-57.16 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	lawlessness
+57.16 	ἀνομίαν          	N1A ASF    	ἀνομία      	         	wickedness
 57.17 	ὑμῶν.            	RP  GP     	σύ          	         	of you.
 58.1  	νῦν              	D          	νῦν         	         	now
 58.2  	οὖν              	X          	οὖν         	         	therefore
@@ -1063,7 +1063,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 61.12 	τοῦ              	RA  GSN    	ὁ           	         	the
 61.13 	στόματος         	N3M GSN    	στόμα       	         	mouth
 61.14 	αὐτῶν            	RD  GPM    	αὐτός       	         	of them
-61.15 	ψευδομάρτυρας    	Ν@  APM    	ψευδομάρτυς 	         	false-witness
+61.15 	ψευδομάρτυρας    	Ν3  APM    	ψευδομάρτυς 	         	false-witness
 61.16 	ὄντας,           	V9  PAPAPM 	εἰμι        	         	being
 61.17 	καὶ              	C          	καί         	         	and
 61.18 	ἐποίησαν         	VAI AAI3P  	ποιέω       	         	they did
