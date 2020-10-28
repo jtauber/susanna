@@ -224,7 +224,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 14.15 	αὐτῶν·           	RD  GPM    	αὐτός       	         	of her;
 14.16 	καὶ              	C          	καί         	         	and
 14.17 	τότε             	D          	τότε        	         	then
-14.18 	κοινῇ            	A1  DSF    	κοινός      	         	(adv?) together
+14.18 	κοινῇ            	D          	κοινῇ       	         	together
 14.19 	συνετάξαντο      	VAI AMI3P  	τάσσω       	συν      	they arranged
 14.20 	καιρὸν           	N2  ASM    	καιρός      	         	a time
 14.21 	ὅτε              	D          	ὅτε         	         	when
@@ -474,7 +474,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 27.15 	οὐκ              	D          	οὐ          	         	not         }
 27.16 	ἐρρέθη           	VC  API3S  	εἶπον       	         	were made
 27.17 	λόγος            	N2  NSM    	λόγος       	         	statements
-27.18 	τοιοῦτος         	A1  NSM    	τοιοῦτος    	         	of this sort
+27.18 	τοιοῦτος         	A1  NSM    	τοιοῦτος    	         	such as this
 27.19 	περὶ             	P          	περί        	         	about
 27.20 	Σουσάννης.       	N   GSF    	Σουσαννα    	         	Susanna.
 28.1  	καὶ              	C          	καί         	         	and
@@ -660,7 +660,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 39.6  	μὲν              	X          	μέν         	         	-
 39.7  	οὐκ              	D          	οὐ          	         	not
 39.8  	ἠδυνήθημεν       	VCI API1P  	δύναμαι     	         	we were able
-39.9  	ἐγκρατεῖς        	A3H NPM    	ἐγκρατής    	         	power-possessing
+39.9  	ἐγκρατεῖς        	A3H NPM    	ἐγκρατής    	         	powerful
 39.10 	γενέσθαι         	VB  AMN    	γίγνομαι    	         	to be
 39.11 	διὰ              	P          	διά         	         	because
 39.12 	τὸ               	RA  ASN    	ὁ           	         	the
@@ -1107,14 +1107,14 @@ ref   	text             	parse      	lemma       	pre      	gloss
 63.16 	αὐτῆς            	RD  GSF    	αὐτός       	         	of her
 63.17 	καὶ              	C          	καί         	         	and
 63.18 	τῶν              	RA  GPM    	ὁ           	         	the
-63.19 	συνγενῶν         	A3H GPM    	συγγενής    	         	kindred
+63.19 	συνγενῶν         	A3H GPM    	συγγενής    	         	relatives
 63.20 	πάντων,          	A3  GPM    	πᾶς         	         	all,
 63.21 	ὅτι              	C          	ὅτι         	         	because
 63.22 	οὐχ              	D          	οὐ          	         	not
 63.23 	εὑρέθη           	VC  API3S  	εὑρίσκω     	         	was found
 63.24 	ἐν               	P          	ἐν          	         	in
 63.25 	αὐτῇ             	RD  DSF    	αὐτός       	         	her
-63.26 	ἄσχημον          	A3N ASN    	ἀσχήμων     	         	shamful
+63.26 	ἄσχημον          	A3N ASN    	ἀσχήμων     	         	inappropriate
 63.27 	πρᾶγμα.          	N3M ASN    	πρᾶγμα      	         	deed.
 64.1  	Καὶ              	C          	καί         	         	And
 64.2  	Δανιὴλ           	N   NSM    	Δανιηλ      	         	Daniel
