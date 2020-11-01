@@ -242,8 +242,8 @@ ref   	text             	parse      	lemma       	pre      	gloss
 15.8  	εὔθετον          	A1B ASF    	εὔθετος     	         	well arranged
 15.9  	εἰσῆλθέν         	VBI AAI3S  	ἔρχομαι     	εἰς      	she entered
 15.10 	ποτε             	D          	ποτέ        	         	at some time
-15.11 	καθὼς            	C          	ὡς          	κατα     	as {check lemma}
-15.12 	ἐχθὲς            	D          	ἐχθὲς       	         	yesterday
+15.11 	καθὼς            	C          	ὡς          	κατα     	as
+15.12 	ἐχθὲς            	D          	ἐχθές       	         	yesterday
 15.13 	καὶ              	C          	καί         	         	and
 15.14 	τρίτης           	A1  GSF    	τρίτος      	         	of third
 15.15 	ἡμέρας           	N1A GSF    	ἡμέρα       	         	day
@@ -289,7 +289,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 17.14 	τοῦ              	RA  GSM    	ὁ           	         	of
 17.15 	παραδείσου       	N2  GSM    	παράδεισος  	         	the garden
 17.16 	κλείσατε,        	VA  AAD2P  	κλείω       	         	shut,
-17.17 	ὅπως             	C          	ὅπως        	         	so
+17.17 	ὅπως             	C          	ὅπως        	         	so that
 17.18 	λούσωμαι.        	VA  AMS1S  	λούω        	         	I may bathe (myself).
 18.1  	καὶ              	C          	καί         	         	and
 18.2  	ἐποίησαν         	VAI AAI3P  	ποιέω       	         	they did
@@ -425,7 +425,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 24.9  	οἱ               	RA  NPM    	ὁ           	         	the
 24.10 	δύο              	M   NDM    	δύο         	         	two
 24.11 	πρεσβῦται        	N1M NPM    	πρεσβύτης   	         	old men
-24.12 	κατέναντι        	D          	κατέναντι   	         	against {prep?}
+24.12 	κατέναντι        	P          	κατέναντι   	         	facing
 24.13 	αὐτῆς.           	RD  GSF    	αὐτός       	         	her.
 25.1  	καὶ              	C          	καί         	         	and
 25.2  	δραμὼν           	VB  AAPNSM 	τρέχω       	         	having ran
@@ -470,7 +470,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 27.11 	δοῦλοι           	N2  NPM    	δοῦλος      	         	slaves
 27.12 	σφόδρα,          	D          	σφόδρα      	         	very much,
 27.13 	ὅτι              	C          	ὅτι         	         	because
-27.14 	πώποτε           	D          	πώποτε      	         	ever yet    } never
+27.14 	πώποτε           	D          	πώποτε      	         	every time  } never
 27.15 	οὐκ              	D          	οὐ          	         	not         }
 27.16 	ἐρρέθη           	VC  API3S  	εἶπον       	         	were made
 27.17 	λόγος            	N2  NSM    	λόγος       	         	statements
@@ -555,7 +555,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 32.7  	ἦν               	V9  IAI3S  	εἰμί        	         	she was
 32.8  	γὰρ              	X          	γάρ         	         	for
 32.9  	κατακεκαλυμμένη, 	VM  XMPNSF 	καλύπτω     	κατα     	covered up (NSF),
-32.10 	ὅπως             	C          	ὅπως        	         	in order
+32.10 	ὅπως             	C          	ὅπως        	         	so that
 32.11 	ἐμπλησθῶσιν      	VS  APS3P  	πίμπλημι    	ἐν       	they were filled (+gen)
 32.12 	τοῦ              	RA  GSN    	ὁ           	         	of
 32.13 	κάλλους          	N3E GSN    	κάλλος      	         	beauty
@@ -910,7 +910,7 @@ ref   	text             	parse      	lemma       	pre      	gloss
 54.1  	νῦν              	D          	νῦν         	         	now
 54.2  	οὖν              	X          	οὖν         	         	then
 54.3  	ταύτην           	RD  ASF    	οὗτος       	         	this [woman]
-54.4  	εἴπερ            	C          	εἴπερ       	         	if
+54.4  	εἴπερ            	C          	εἴπερ       	         	if really
 54.5  	ἴδες,            	VBI AAI2S  	ὁράω        	         	you saw,
 54.6  	εἰπόν            	VBI AAD2S  	εἶπον       	         	say:
 54.7  	Ὑπὸ              	P          	ὑπό         	         	Under
@@ -1120,8 +1120,8 @@ ref   	text             	parse      	lemma       	pre      	gloss
 64.2  	Δανιὴλ           	N   NSM    	Δανιηλ      	         	Daniel
 64.3  	ἐγένετο          	VBI AMI3S  	γίγνομαι    	         	became
 64.4  	μέγας            	A1P NSM    	μέγας       	         	great
-64.5  	ἐνώπιον          	D   P      	ἐνώπιον     	         	face-to-face
-64.6  	τοῦ              	RA  GSM    	ὁ           	         	of the
+64.5  	ἐνώπιον          	D          	ἐνώπιον     	         	before
+64.6  	τοῦ              	RA  GSM    	ὁ           	         	the
 64.7  	λαοῦ             	N2  GSM    	λαός        	         	people
 64.8  	ἀπὸ              	P          	ἀπό         	         	from
 64.9  	τῆς              	RA  GSF    	ὁ           	         	-
